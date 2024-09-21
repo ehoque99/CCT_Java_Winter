@@ -23,7 +23,7 @@ public class SetUp {
 	 driver.get("https://wwww.facebook.com/");
 	 
 	 // driver.navigate().to("https://wwww.facebook.com/");
-		
+		//new
 	 
 	 driver.findElement(By.xpath("//a[text()='Create new account']"));
 	 
